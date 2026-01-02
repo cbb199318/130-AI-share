@@ -97,124 +97,124 @@ Use bold colors, strong contrast, and dynamic visual elements.
 Emphasize motivation and action.
 ```
 
-## 13. Pastel Soft Style
+## 13. Pastel Soft Style（马卡龙柔和风）
 ```text
 Apply a soft pastel UI style.
 Use light colors, gentle gradients, and rounded components.
 Create a calm and friendly feeling.
 ```
 
-## 14. Cartoon / Illustration Style
+## 14. Cartoon / Illustration Style（卡通 / 插画风）
 ```text
 Apply a playful illustrated UI style.
 Use custom icons, rounded shapes, and friendly colors.
 Create a fun and approachable interface.
 ```
 
-## 15. Retro / Y2K
+## 15. Retro / Y2K（ 复古 / Y2K 千禧风）
 ```text
 Apply a retro Y2K UI style.
 Use bold colors, playful typography, glossy elements, and nostalgic vibes.
 ```
 
-## 16. Editorial / Magazine Style
+## 16. Editorial / Magazine Style（版式 / 杂志风）
 ```text
 Apply an editorial magazine-style UI.
 Use strong typography hierarchy, large headlines, and structured layouts.
 Focus on content presentation.
 ```
 
-## 17. Monochrome
+## 17. Monochrome（ 单色极简风）
 ```text
 Apply a monochrome UI style.
 Use a single color palette with tonal variations.
 Create a clean and focused interface.
 ```
 
-## 18. Nature / Organic
+## 18. Nature / Organic（自然 / 有机风）
 ```text
 Apply an organic, nature-inspired UI style.
 Use earthy colors, soft shapes, and natural textures.
 Create a calm and balanced experience.
 ```
 
-## 19. Gaming Dashboard
+## 19. Gaming Dashboard（游戏仪表盘风）
 ```text
 Apply a gaming dashboard UI style.
 Use bold panels, sharp contrast, and immersive visuals.
 Create a competitive and engaging feel.
 ```
 
-## 20. Enterprise / Corporate
+## 20. Enterprise / Corporate（企业 / 商务风）
 ```text
 Apply an enterprise corporate UI style.
 Use neutral colors, clear grids, and professional components.
 Focus on reliability and clarity.
 ```
 
-## 21. Gen Z / Youth Style
+## 21. Gen Z / Youth Style（Z 世代 / 年轻化风）
 ```text
 Apply a Gen Z–inspired UI style.
 Use bold colors, expressive typography, and playful layouts.
 Create a trendy and energetic look.
 ```
 
-## 22. Medical / Health Tech
+## 22. Medical / Health Tech（医疗 / 健康科技风）
 ```text
 Apply a health-tech UI style.
 Use clean layouts, soft blues or greens, and trustworthy visuals.
 Create a safe and professional feeling.
 ```
 
-## 23. Wearable Companion App
+## 23. Wearable Companion App（穿戴设备配套应用风）
 ```text
 Apply a wearable companion app UI style.
 Use large metrics, glanceable cards, and simplified interactions.
 Optimize for quick reading.
 ```
 
-## 24. Notion-like Productivity
+## 24. Notion-like Productivity（类 Notion 高效办公风）
 ```text
 Apply a Notion-inspired productivity UI.
 Use minimal colors, clear typography, and structured blocks.
 Focus on content organization.
 ```
 
-## 25. Social Media Style
+## 25. Social Media Style（社交媒体风）
 ```text
 Apply a social media–inspired UI style.
 Use card-based feeds, engagement elements, and friendly visuals.
 Create a community-driven feel.
 ```
 
-## 26. Illustration + Minimal Hybrid
+## 26. Illustration + Minimal Hybrid（ 插画 + 极简混搭风）
 ```text
 Apply a hybrid UI style combining minimal layouts with subtle illustrations.
 Keep the interface clean while adding personality.
 ```
 
-## 27. High-Contrast Accessibility
+## 27. High-Contrast Accessibility（高对比度无障碍风）
 ```text
 Apply a high-contrast accessible UI style.
 Ensure strong text contrast, clear buttons, and readable components.
 Prioritize accessibility.
 ```
 
-## 28. Futuristic HUD
+## 28. Futuristic HUD（未来感平视显示风）
 ```text
 Apply a futuristic HUD-style interface.
 Use layered panels, thin lines, and sci-fi visual elements.
 Create a system dashboard feel.
 ```
 
-## 29. Warm Lifestyle App
+## 29. Warm Lifestyle App（温暖生活方式应用风）
 ```text
 Apply a warm lifestyle app UI style.
 Use warm tones, friendly typography, and relaxed spacing.
 Create a welcoming experience.
 ```
 
-## 30. Experimental Concept UI
+## 30. Experimental Concept UI（实验性概念 UI 风）
 ```text
 Apply an experimental concept UI style.
 Explore unconventional layouts, creative visuals, and bold ideas.
